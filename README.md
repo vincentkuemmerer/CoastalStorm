@@ -1,6 +1,6 @@
 # Storm identification for high-energy wave climates as a tool to improve long-term analysis
 
-The matlab (R.2023b) function 'StormIdentification.m' can be used to extract storms from significatn wave height time series according to the storm definition detailed in the paper.
+The matlab (R.2023b) function 'StormIdentification.m' can be used to extract storms from significant wave height time series according to the storm definition detailed in the paper.
 
 For questions and information not included in the function contact me: vkuemmerer@ualg.pt
 
